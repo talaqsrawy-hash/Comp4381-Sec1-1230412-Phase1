@@ -70,3 +70,4 @@ COMP4381 – Data Science and Analytics
 
 - Section: 1
 - Student ID: 1230412
+- Student Name: Tala Qassarwa
